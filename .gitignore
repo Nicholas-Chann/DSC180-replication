@@ -1,0 +1,12 @@
+# large data: download instead (see DOWNLOADS.md)
+*.mat
+SST_v2_25-04.csv
+SST_v2_25-04.csv.gz
+theta_v2_25-04.csv
+*.npz
+*.nc*.mat
+SST_v2_25-04.csv
+SST_v2_25-04.csv.gz
+theta_v2_25-04.csv
+*.npz
+*.nc

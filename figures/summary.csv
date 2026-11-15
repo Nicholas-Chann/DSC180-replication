@@ -1,0 +1,16 @@
+Quantity,Paper,This notebook
+Pixels analysed,"22,468 (trend script)","22,468"
+EOF PC1–4 / PC5–8 / PC1–8 (%),59.4 / 4.2 / 63.6,58.5 / 4.1 / 62.6
+PC5 vs ONI (R),0.81,0.83  [NOAA CPC (official)]
+PC6 vs PDO (R),0.59,0.62  [NOAA NCEI (official)]
+Seasonal SST vs Θ′ (r),−0.51,-0.43
+Year-to-year SST vs Θ′ (r),−0.23,-0.20
+Median Θ′ trend (yr⁻¹),−1.3e−3,-1.23e-03
+Median SST trend (°C yr⁻¹),2.3e−2,2.34e-02  [MODIS-Aqua SST]
+Area with SST warming,89%,89%
+SHemi (lowNut) Θ′ trend ×10,≈ +0.03,"+0.0263  [Gerace et al. 2025 Dataset S1, WOD Means (no3=3)]"
+NHemi (lowNut) Θ′ trend ×10,≈ −0.05,-0.0423
+SHemi (highNut) Θ′ trend ×10,≈ −0.007,-0.0052
+Sensor agreement: mean values / all points (r),0.97–0.98 / 0.74–0.75,0.98 / 0.89
+Fig. 1A Θ′ vs nitracline (r),−0.52,-0.66
+Fig. 1B RF R²: Z_NO3 + biom. / Z_NO3,≈ 0.62 / 0.36,0.51 / 0.27
